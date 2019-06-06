@@ -1,0 +1,12 @@
+{
+  "db": "cwp34",
+  "login": "root",
+  "password": "root",
+  "port": 3306,
+  "host": "localhost",
+  "dialect": "mysql",
+  "define": {
+    "timestamps": true,
+    "paranoid": true
+  }
+}

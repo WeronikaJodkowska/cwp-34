@@ -1,0 +1,9 @@
+2019-05-01T15:26:00.395Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2019-05-01T15:26:00.464Z - [32minfo[39m: /api/office GET
+2019-05-01T15:30:11.511Z - [32minfo[39m: /api/office GET
+2019-05-01T15:30:11.592Z - [32minfo[39m: /api/office/update/2 POST
+ body: {"title":"Just Bea","website":"https://surveymonkey.com/","address":"7758 Mauris Rd."}
+2019-05-01T15:30:11.610Z - [32minfo[39m: /api/office GET
+2019-05-01T15:30:11.610Z - [32minfo[39m: /api/office GET FROM CACHE
+

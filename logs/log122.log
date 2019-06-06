@@ -1,0 +1,11 @@
+2019-05-01T12:46:05.586Z - [32minfo[39m: /api/agent GET
+2019-05-01T12:51:28.844Z - [32minfo[39m: /api/property GET
+2019-05-01T12:58:20.193Z - [32minfo[39m: /api/property GET
+2019-05-01T12:58:22.806Z - [32minfo[39m: /api/property GET
+2019-05-01T12:58:22.807Z - [32minfo[39m: /api/property GET FROM CACHE
+
+2019-05-01T12:58:25.361Z - [32minfo[39m: /api/agent GET
+2019-05-01T12:58:27.434Z - [32minfo[39m: /api/agent GET
+2019-05-01T12:58:27.434Z - [32minfo[39m: /api/agent GET FROM CACHE
+
+2019-05-01T13:09:46.360Z - [32minfo[39m: /api/property GET

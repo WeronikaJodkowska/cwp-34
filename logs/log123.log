@@ -1,0 +1,10 @@
+2019-05-01T13:09:49.760Z - [32minfo[39m: /api/agent GET
+2019-05-01T13:34:20.104Z - [32minfo[39m: /api/agent GET
+2019-05-01T13:43:24.210Z - [32minfo[39m: /api/office GET
+2019-05-01T13:43:24.242Z - [32minfo[39m: /api/office/1 GET
+2019-05-01T13:44:12.297Z - [32minfo[39m: /api/office GET
+2019-05-01T13:44:18.156Z - [32minfo[39m: /api/office/1 GET
+2019-05-01T13:51:52.493Z - [32minfo[39m: /api/office GET
+2019-05-01T13:54:23.174Z - [32minfo[39m: /api/office GET
+2019-05-01T13:54:23.213Z - [32minfo[39m: /api/office/1 GET
+2019-05-01T14:01:35.289Z - [32minfo[39m: /api/office/1 GET

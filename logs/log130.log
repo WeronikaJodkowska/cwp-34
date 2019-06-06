@@ -1,0 +1,9 @@
+2019-05-01T14:31:49.340Z - [32minfo[39m: /api/office POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2019-05-01T14:32:50.388Z - [32minfo[39m: /api/office POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2019-05-01T14:34:17.228Z - [32minfo[39m: /api/office POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2019-05-01T14:35:01.505Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2019-05-01T14:35:01.549Z - [32minfo[39m: /api/office GET

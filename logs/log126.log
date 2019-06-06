@@ -1,0 +1,15 @@
+2019-05-01T14:10:31.813Z - [32minfo[39m: /api/office/1 GET
+2019-05-01T14:10:59.625Z - [32minfo[39m: /api/office GET
+2019-05-01T14:12:08.970Z - [32minfo[39m: /api/office GET
+2019-05-01T14:12:09.354Z - [32minfo[39m: /api/office/undefined GET
+2019-05-01T14:15:12.866Z - [32minfo[39m: /api/office GET
+2019-05-01T14:15:13.030Z - [32minfo[39m: /api/office/undefined GET
+2019-05-01T14:16:05.341Z - [32minfo[39m: /api/office GET
+2019-05-01T14:16:05.509Z - [32minfo[39m: /api/office/[object%20Object] GET
+2019-05-01T14:16:48.580Z - [32minfo[39m: /api/office GET
+2019-05-01T14:17:03.223Z - [32minfo[39m: /api/office GET
+2019-05-01T14:17:03.224Z - [32minfo[39m: /api/office GET FROM CACHE
+
+2019-05-01T14:19:04.053Z - [32minfo[39m: /api/office/2 GET
+2019-05-01T14:24:46.602Z - [32minfo[39m: /api/office GET
+2019-05-01T14:27:38.160Z - [32minfo[39m: /api/office GET
