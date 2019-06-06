@@ -27,7 +27,7 @@ class PropertiesService extends CrudService {
     }
 
     async bindAgent(propertyId, agentId) {
-        const agent = await this.agentsRepository.findById(agentId);
+        const agent = await this.agentsRepository.findByPk(agentId);
         
         if (!agent) {
             throw this.errors.notFound;
